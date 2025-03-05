@@ -39,8 +39,8 @@ This entire build was made for beginners! Hope you enjoy :)
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Barty-Bart/openai-realtime-api-voice-assistant-V2.git
-   cd openai-realtime-api-voice-assistant-V2
+   git@github.com:rukiya321/ai-voice-agent.git
+   cd ai-voice-agent
    ```
 
 2. Install dependencies:
