@@ -1,12 +1,6 @@
 # OpenAI Realtime API Voice Assistant
 
-This is an upgraded version of the V1 repo: https://github.com/Barty-Bart/openai-realtime-api-voice-assistant
-
 This project implements an AI-powered inbound call agent for Bart's Automotive, a fictional automotive business. It uses OpenAI's new realtime API and integrates with Twilio to handle incoming phone calls.
-
-## Tutorial Video
-
-Watch the tutorial video here: https://youtu.be/ffDm4HVGuTM?si=kjulj6eTpe6p_w28
 
 ## Upgrades
 
